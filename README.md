@@ -59,19 +59,11 @@ It automatically reads incoming emails, understands context, and sends smart, pr
 
 ### 🔄 n8n Workflow
 
-![n8n Workflow](screenshots/workflow.png)
+[n8n Workflow](screenshots/workflow.jpg)
 
-### 📩 Incoming Email
+### 📩 Mail & Reply
 
-![Incoming Email](screenshots/email-received.png)
-
-### 🤖 AI Generated Reply
-
-![AI Generated Reply](screenshots/ai-reply.png)
-
-### 📤 Gmail Response
-
-![Gmail Response](screenshots/gmail-response.png)
+[Mail & Reply](screenshots/email&reply.jpg)
 
 ---
 
