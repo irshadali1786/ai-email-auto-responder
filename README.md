@@ -63,7 +63,7 @@ It automatically reads incoming emails, understands context, and sends smart, pr
 
 ### 📩 Mail & Reply
 
-![Mail & Reply](screenshots/email&reply.jpg)
+![Mail & Reply](screenshots/mail_&_reply.jpg)
 
 ---
 
