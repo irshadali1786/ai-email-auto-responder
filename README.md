@@ -59,11 +59,11 @@ It automatically reads incoming emails, understands context, and sends smart, pr
 
 ### 🔄 n8n Workflow
 
-[n8n Workflow](screenshots/workflow.jpg)
+![n8n Workflow](screenshots/workflow.jpg)
 
 ### 📩 Mail & Reply
 
-[Mail & Reply](screenshots/email&reply.jpg)
+![Mail & Reply](screenshots/email&reply.jpg)
 
 ---
 
